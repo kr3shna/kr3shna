@@ -1,149 +1,94 @@
-<div align="center">
-
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║                  BOOT SEQUENCE INITIATED                   ║ -->
+<!-- ║              LIVE TERMINAL :: kr3shna@github               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/kr3shna">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&width=720&height=120&lines=%3E+Initializing+krishna.exe...;%3E+Loading+neural+pathways...;%3E+Status%3A+ONLINE+%E2%97%8F;%3E+Role%3A+Full-Stack+AI+Engineer;%3E+Mission%3A+Ship.+Iterate.+Repeat." alt="Boot sequence" />
-</a>
+<div align="center">
 
-<br/>
+<!-- ───────────────  BOOT SEQUENCE  ─────────────── -->
 
-```ansi
-██╗  ██╗██████╗ ██████╗ ███████╗██╗  ██╗███╗   ██╗ █████╗ 
-██║ ██╔╝██╔══██╗╚════██╗██╔════╝██║  ██║████╗  ██║██╔══██╗
-█████╔╝ ██████╔╝ █████╔╝███████╗███████║██╔██╗ ██║███████║
-██╔═██╗ ██╔══██╗ ╚═══██╗╚════██║██╔══██║██║╚██╗██║██╔══██║
-██║  ██╗██║  ██║██████╔╝███████║██║  ██║██║ ╚████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&multiline=true&width=820&height=180&lines=%24+sudo+./initialize+krishna.exe;%5BOK%5D+Neural+pathways+loaded+%E2%97%8F;%5BOK%5D+Hydration+subsystem+online+%F0%9F%92%A7;%5BOK%5D+Agent+ready.+Awaiting+input...;%3E+Full-Stack+AI+Engineer.+Online." alt="boot sequence" />
 
-<br/>
+<br/><br/>
+
+<!-- ───────────────  LIVE WHOAMI  ─────────────── -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=900&color=FF00AA&center=true&vCenter=true&multiline=true&width=720&height=240&lines=%3E+whoami;%24+Full-Stack+AI+Engineer;%3E+what.do.you.build%3F;%24+Agents.+Apps.+APIs.;%3E+current.obsession%3F;%24+LLMs+that+actually+do+things;%3E+status%3F;%24+shipping..." alt="whoami" />
 
 </div>
 
-<!-- ─────────────  AGENT IDENTITY CARD  ───────────── -->
-
-```bash
-╭─ kr3shna@github ─────────────────────────────────╮
-│                                                  │
-│  > whoami                                        │
-│  $ Full-Stack AI Engineer                        │
-│                                                  │
-│  > location                                      │
-│  $ /dev/terminal                                 │
-│                                                  │
-│  > current_task                                  │
-│  $ Building autonomous agents that ship          │
-│                                                  │
-│  > status                                        │
-│  $ ▓▓▓▓▓▓▓▓▓░ shipping...                       │
-│                                                  │
-╰──────────────────────────────────────────────────╯
-```
-
 <br/>
 
-<!-- ─────────────  TOOLKIT  ───────────── -->
+<!-- ───────────────  PS AUX :: LIVE PROCESS MONITOR  ─────────────── -->
+
+### `$ ps aux --human`
 
 <div align="center">
 
-### `$ ls ./stack/`
+<img src="https://kr3shna.github.io/ps-aux.svg" onerror="this.style.display='none'" alt="" width="0" height="0" />
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,c,cpp,python,react,nextjs,dart,flutter,nodejs,express,fastapi,docker,aws,gcp,git,github&theme=dark" />
+```ansi
+PID     USER       PROCESS                       CPU%      MEM%    STATUS
+─────────────────────────────────────────────────────────────────────────
+1337    kr3shna    langchain.agent               ▓▓▓▓▓░    87.3    RUNNING ●
+2048    kr3shna    react-native.expo             ▓▓▓▓░░    64.2    RUNNING ●
+3141    kr3shna    fastapi.server                ▓▓▓░░░    45.7    LISTENING
+4096    kr3shna    nextjs.frontend               ▓▓▓▓░░    61.8    RUNNING ●
+5273    kr3shna    docker.daemon                 ▓▓░░░░    32.1    ACTIVE
+6180    kr3shna    curiosity.daemon              ▓▓▓▓▓▓    99.9    MAXED OUT
+7777    kr3shna    shipping.service              ▓▓▓▓▓░    88.4    ALWAYS ON
+9001    kr3shna    hydration.intake              ▓▓▓▓░░    72.0    SIPPING
+```
 
 </div>
 
 <br/>
 
-<!-- ─────────────  CAPABILITIES  ───────────── -->
+<!-- ───────────────  CAPABILITIES (TYPED LIVE)  ─────────────── -->
 
 ### `> ./agent --list-capabilities`
 
-```yaml
-[✓] PROGRAMMING        : Python, JavaScript / TypeScript, C, C++
-[✓] FRONTEND_MOBILE    : React, Next.js, React Native, Expo, Flutter
-[✓] API_BACKEND        : REST APIs, Node.js, Express.js, FastAPI, Docker
-[✓] AI_AGENTIC         : LangChain, LangGraph, LLM tool use, RAG, agent orchestration
-[✓] DEVOPS_CLOUD       : Git, GitHub, Docker, AWS, GCP, CI pipelines
-[✓] TESTING            : API Testing (Postman / REST), Functional, Regression, STLC / SDLC
-[✓] MONITORING_QA      : Sentry (crash reporting), PostHog (product analytics)
-[✓] VERSION_CONTROL    : Git, GitLab
-```
-
-<br/>
-
-<!-- ─────────────  STATS  ───────────── -->
-
 <div align="center">
 
-### `> cat ~/.metrics`
-
-<a href="https://github.com/kr3shna">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kr3shna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=ff00aa&text_color=e0e0e0&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kr3shna&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=00f0ff&ring=ff00aa&fire=ff00aa&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=e0e0e0" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr3shna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=e0e0e0&langs_count=10" height="180" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=400&color=00F0FF&multiline=true&width=820&height=280&lines=%5B%E2%9C%93%5D+PROGRAMMING+++++++%3A+Python%2C+JS+%2F+TypeScript%2C+C%2C+C%2B%2B;%5B%E2%9C%93%5D+FRONTEND_MOBILE+++%3A+React%2C+Next.js%2C+React+Native%2C+Expo%2C+Flutter;%5B%E2%9C%93%5D+API_BACKEND+++++++%3A+REST%2C+Node.js%2C+Express.js%2C+FastAPI%2C+Docker;%5B%E2%9C%93%5D+AI_AGENTIC++++++++%3A+LangChain%2C+LangGraph%2C+RAG%2C+tool+use%2C+orchestration;%5B%E2%9C%93%5D+DEVOPS_CLOUD++++++%3A+Git%2C+GitHub%2C+Docker%2C+AWS%2C+GCP%2C+CI+pipelines;%5B%E2%9C%93%5D+TESTING+++++++++++%3A+Postman+%2F+REST%2C+Functional%2C+Regression%2C+STLC;%5B%E2%9C%93%5D+MONITORING_QA+++++%3A+Sentry+(crash)%2C+PostHog+(analytics);%5B%E2%9C%93%5D+VERSION_CONTROL+++%3A+Git%2C+GitLab;%3E+All+systems+loaded.+Agent+armed+and+ready." alt="capabilities" />
 
 </div>
 
 <br/>
 
-<!-- ─────────────  SNAKE  ───────────── -->
+<!-- ───────────────  LIVE LOG FEED  ─────────────── -->
+
+### `$ tail -f /var/log/krishna.log`
 
 <div align="center">
 
-### `> ./run contribution-graph.snake`
-
-<img src="https://raw.githubusercontent.com/kr3shna/kr3shna/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=1500&pause=300&color=00F0FF&multiline=true&width=820&height=220&lines=%5B14%3A23%3A01%5D+INFO+++agent.langchain+%E2%86%92+tool+invoked+%E2%9C%93;%5B14%3A23%3A04%5D+DEBUG++react-native+%E2%86%92+hot+reload+triggered;%5B14%3A23%3A09%5D+WARN+++coffee.intake+%E2%86%92+critical+(refill+needed);%5B14%3A23%3A14%5D+INFO+++docker.compose+%E2%86%92+services+up;%5B14%3A23%3A22%5D+INFO+++git.commit+%E2%86%92+%22fix%3A+it+works+now%22;%5B14%3A23%3A30%5D+INFO+++gpu.cluster+%E2%86%92+H%E2%82%82O+coolant+flowing+%F0%9F%92%A7;%5B14%3A23%3A41%5D+INFO+++fastapi+%E2%86%92+200+OK+(7ms);%5B14%3A23%3A55%5D+INFO+++curiosity.daemon+%E2%86%92+still+running...;%5B14%3A24%3A07%5D+INFO+++shipping.service+%E2%86%92+deploy+%23427+successful" alt="live log" />
 
 </div>
 
 <br/>
 
-<!-- ─────────────  TROPHIES  ───────────── -->
-
-<div align="center">
-
-### `> ./trophy --display`
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kr3shna&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ─────────────  CONNECT  ───────────── -->
+<!-- ───────────────  CONNECT  ─────────────── -->
 
 ### `> ./connect --user=kr3shna`
 
-```bash
-> Establishing secure channel...
-> Encryption: AES-256 ▓▓▓▓▓▓▓▓▓▓ 100%
-> Channel: OPEN ●
-> Awaiting transmission...
-```
-
 <div align="center">
 
-<a href="mailto:smskrishna321@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-%23ff00aa.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Email" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=700&color=FF00AA&center=true&vCenter=true&multiline=true&width=720&height=140&lines=%3E+Establishing+secure+channel...;%3E+Encryption%3A+AES-256+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93+100%25;%3E+Channel%3A+OPEN+%E2%97%8F;%3E+Awaiting+transmission..." alt="connect" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=00F0FF&center=true&vCenter=true&width=400&lines=%5Bkr3shna%40github%20~%5D%24%20_" alt="cursor" />
+<a href="mailto:smskrishna321@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%96%B6_TRANSMIT-smskrishna321%40gmail.com-FF00AA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="email" />
+</a>
 
 </div>
 
-<br/>
+<br/><br/>
+
+<!-- ───────────────  STATUS BAR :: WATER  ─────────────── -->
 
 <div align="center">
-<sub><code>EOF // built with caffeine and curiosity</code></sub>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&duration=4000&pause=600&color=00F0FF&center=true&vCenter=true&width=900&lines=%5B+%E2%97%8F+ONLINE+%5D++%5B+H%E2%82%82O%3A+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+73%25+%5D++%5B+GPU%3A+COOLING+%5D++%5B+TOKENS%3A+%E2%88%9E+%5D;%5B+%E2%97%8F+ONLINE+%5D++%5B+H%E2%82%82O%3A+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+61%25+%5D++%5B+GPU%3A+THIRSTY+%5D++%5B+TOKENS%3A+%E2%88%9E+%5D;%5B+%E2%97%8F+ONLINE+%5D++%5B+H%E2%82%82O%3A+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+42%25+%5D++%5B+GPU%3A+REFILL+%5D++%5B+TOKENS%3A+%E2%88%9E+%5D;%5B+%E2%97%8F+ONLINE+%5D++%5B+H%E2%82%82O%3A+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91+91%25+%5D++%5B+GPU%3A+HAPPY+%5D++%5B+TOKENS%3A+%E2%88%9E+%5D" alt="status bar" />
+
 </div>
