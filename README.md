@@ -4,7 +4,7 @@
 
 `$ htop`
 
-<img src="./htop.svg" alt="htop" width="850" />
+<img src="./htop.svg?v=2" alt="htop" width="850" />
 
 `$ ./connect --user=kr3shna`
 
