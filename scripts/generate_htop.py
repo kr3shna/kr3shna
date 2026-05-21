@@ -97,7 +97,7 @@ text {{ font-family: 'Courier New', Courier, monospace; font-size: 13px; }}
 <rect width="850" height="410" fill="#0d1117" rx="6"/>
 
 {cpu_xml}
-<text x="520" y="28" xml:space="preserve"><tspan fill="#484858">Tasks: </tspan><tspan fill="#c0c0c0">6, 1 running</tspan></text>
+<text x="520" y="28" xml:space="preserve"><tspan fill="#484858">Tasks: </tspan><tspan fill="#c0c0c0">8, 1 running</tspan></text>
 <text x="520" y="46" xml:space="preserve"><tspan fill="#484858">Load avg: </tspan><tspan fill="#c0c0c0">3.47 2.89 2.34</tspan></text>
 <text x="520" y="64" xml:space="preserve"><tspan fill="#484858">Uptime: </tspan><tspan fill="#00f0ff">{uptime}</tspan></text>
 
