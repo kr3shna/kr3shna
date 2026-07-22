@@ -63,10 +63,10 @@ text { font-family: 'Courier New', Courier, monospace; font-size: 13px; }
 <text x="20" y="290" xml:space="preserve"><tspan fill="#484858">  6174  </tspan><tspan fill="#c0c0c0">git|github|gitlab                 </tspan><tspan fill="#c0c0c0">15.3</tspan><tspan fill="#c0c0c0">     9.8   </tspan><tspan fill="#00ff41">TRACKING</tspan></text>
 
 <text x="20" y="316" xml:space="preserve" fill="#484858">-- tail -f /var/log/krishna.log -----------------------------------------------</text>
-<text x="20" y="334" xml:space="preserve"><tspan fill="#484858">[19:18:31]</tspan><tspan fill="#00ff41"> INFO  </tspan><tspan fill="#c0c0c0">agent.langchain </tspan><tspan fill="#484858">-&gt; invoking tool</tspan></text>
-<text x="20" y="352" xml:space="preserve"><tspan fill="#484858">[19:18:36]</tspan><tspan fill="#00f0ff"> DEBUG </tspan><tspan fill="#c0c0c0">react-native </tspan><tspan fill="#484858">-&gt; hot reload triggered</tspan></text>
-<text x="20" y="370" xml:space="preserve"><tspan fill="#484858">[19:18:40]</tspan><tspan fill="#00ff41"> INFO  </tspan><tspan fill="#c0c0c0">gpu.cluster </tspan><tspan fill="#484858">-&gt; H2O coolant flowing</tspan></text>
-<text x="20" y="388" xml:space="preserve"><tspan fill="#484858">[19:18:43]</tspan><tspan fill="#00ff41"> INFO  </tspan><tspan fill="#c0c0c0">git.commit </tspan><tspan fill="#484858">-&gt; "fix: it works now"</tspan></text>
+<text x="20" y="334" xml:space="preserve"><tspan fill="#484858">[00:44:54]</tspan><tspan fill="#00ff41"> INFO  </tspan><tspan fill="#c0c0c0">agent.langchain </tspan><tspan fill="#484858">-&gt; invoking tool</tspan></text>
+<text x="20" y="352" xml:space="preserve"><tspan fill="#484858">[00:44:59]</tspan><tspan fill="#00f0ff"> DEBUG </tspan><tspan fill="#c0c0c0">react-native </tspan><tspan fill="#484858">-&gt; hot reload triggered</tspan></text>
+<text x="20" y="370" xml:space="preserve"><tspan fill="#484858">[00:45:03]</tspan><tspan fill="#00ff41"> INFO  </tspan><tspan fill="#c0c0c0">gpu.cluster </tspan><tspan fill="#484858">-&gt; H2O coolant flowing</tspan></text>
+<text x="20" y="388" xml:space="preserve"><tspan fill="#484858">[00:45:06]</tspan><tspan fill="#00ff41"> INFO  </tspan><tspan fill="#c0c0c0">git.commit </tspan><tspan fill="#484858">-&gt; "fix: it works now"</tspan></text>
 
 <text x="20" y="414" xml:space="preserve"><tspan fill="#00f0ff">F1</tspan><tspan fill="#c0c0c0">Help  </tspan><tspan fill="#00f0ff">F2</tspan><tspan fill="#c0c0c0">Setup  </tspan><tspan fill="#00f0ff">F3</tspan><tspan fill="#c0c0c0">Search  </tspan><tspan fill="#00f0ff">F4</tspan><tspan fill="#c0c0c0">Filter  </tspan><tspan fill="#00f0ff">F5</tspan><tspan fill="#c0c0c0">Tree  </tspan><tspan fill="#00f0ff">F6</tspan><tspan fill="#c0c0c0">SortBy</tspan></text>
 
